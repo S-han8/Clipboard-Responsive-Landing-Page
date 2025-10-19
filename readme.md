@@ -97,7 +97,7 @@ Feel free to fork, modify, and enhance it for your own learning or presentation.
 
 ## 💡 Author
 
-**Your Name Here**  
+*Mahmoud Mostafa AbdulAziz **  
 Front-End Developer | Responsive Design Enthusiast  
-📧 youremail@example.com  
-🌐 [Your Portfolio Link]
+📧 mahmoudgann396@gmail.com  
+
